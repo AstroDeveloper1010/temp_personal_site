@@ -1,4 +1,3 @@
-# temp_personal
-This is a repository that I have created to upload my personal learnings.
+# temp_personal_personal_site
 
-web developement and react native
+This is what I created in 2020 using pure html and css.
